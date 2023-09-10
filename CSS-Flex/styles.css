@@ -1,0 +1,60 @@
+.container > div {
+  padding: 10px;
+  text-align: center;
+  font-size: 2em;
+  color: #ffeead;
+}
+
+body {
+  margin: 0;
+}
+
+html, body {
+  box-sizing: border-box;
+  height: 100%;
+  padding: 10px;
+  background-color: #ffeead;
+}
+
+.container > div:nth-child(1) {
+  background-color: #96ceb4;	
+}
+
+.container > div:nth-child(2) {
+  background-color: #ff6f69;
+}
+
+.container > div:nth-child(3) {
+  background-color: #88d8b0;
+}
+.container {
+  border: 5px solid #ffcc5c;
+  display: flex;
+}
+
+.item1 {
+  order: 0;
+}
+
+.item2 {
+  order: 0;
+  flex: 1;
+}
+
+.item3 {
+  align-self: flex-end;
+}
+input{
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid white;
+    font-size: 1.5rem;
+    color: white;
+}
+input::placeholder{
+    
+    color: white;
+}
