@@ -1,7 +1,7 @@
 
 :root {
         --color:rgb(79, 77, 77);
-        --cl2:rgb(130, 76, 161);
+        --cl2:rgb(147, 95, 177);
 }
 *{
         margin:0;
@@ -37,9 +37,10 @@ body{
         justify-content: space-around;
         margin: 0 auto;
         flex-wrap: wrap;
+        padding-bottom: 30px;
     }
     .card{
-        min-width: 200px;
+        min-width: 300px;
         margin-top: 30px;
         width: 30%;
         height: 230px;
@@ -56,7 +57,7 @@ body{
         scale: 1.05;
     }
 .card h2{
-        font-size:2rem;
+        font-size:30px;
         margin-bottom: 10px;
 }
 .card li{
@@ -74,4 +75,7 @@ body{
 }
 .card:last-child li {
         text-align: start;
+}
+b{
+        color: black;
 }
