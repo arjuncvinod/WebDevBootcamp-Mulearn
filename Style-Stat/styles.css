@@ -1,0 +1,77 @@
+
+:root {
+        --color:rgb(79, 77, 77);
+        --cl2:rgb(130, 76, 161);
+}
+*{
+        margin:0;
+        padding: 0;
+        box-sizing: border-box;
+}
+body{
+        background-color: var(--cl2);
+        height: 100vh;
+        color:var(--cl2);
+}
+
+    img{
+        width: 180px;
+        height: 180px;
+        border-radius: 50%;
+        object-fit: cover;
+        margin: 10px 0;
+        border: 2px solid white;
+
+    }
+    .info{
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        color: white;
+    }
+    section{
+        display: flex;
+        width: 80%;
+        justify-content: space-around;
+        margin: 0 auto;
+        flex-wrap: wrap;
+    }
+    .card{
+        min-width: 200px;
+        margin-top: 30px;
+        width: 30%;
+        height: 230px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 15px 10px;
+        box-shadow: 0px 0px 10px rgb(116, 1, 136);
+        border-radius: 10px;
+        transition: .3s;
+        background-color: white;
+    }
+    .card:hover{
+        scale: 1.05;
+    }
+.card h2{
+        font-size:2rem;
+        margin-bottom: 10px;
+}
+.card li{
+        list-style: none;
+        margin: 10px 0;
+        font-size: 1.1rem;
+        text-align: center;
+        font-weight: bold;
+        color: rgb(106, 101, 101);
+}
+.card ul li a{
+        text-decoration: none;
+        color:var(--color) ;
+        color: rgb(106, 101, 101);
+}
+.card:last-child li {
+        text-align: start;
+}
