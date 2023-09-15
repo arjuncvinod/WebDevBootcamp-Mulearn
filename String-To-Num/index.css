@@ -1,0 +1,16 @@
+html, body {
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button {
+    border: none;
+    border-radius: 200px;
+    padding: 15px 30px;
+    font-weight: bold;
+    cursor: pointer;
+    background: #fc807f;
+    color: white;
+}
