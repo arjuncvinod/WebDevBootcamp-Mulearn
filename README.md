@@ -9,4 +9,5 @@
 #### [CSS-Flex](https://arjuncvinod.github.io/WebDevBootcamp-Mulearn/CSS-Flex/index.html)
 #### [Calculator](https://arjuncvinod.github.io/WebDevBootcamp-Mulearn/Calculator/index.html)
 #### [Buildjack-Game](https://arjuncvinod.github.io/WebDevBootcamp-Mulearn/Buildjack-Game/index.html)
+#### [Sorting-Fruits](https://arjuncvinod.github.io/WebDevBootcamp-Mulearn/Sorting-Fruits/index.html)
 
