@@ -7,5 +7,5 @@
 #### [Space-Exploration](https://arjuncvinod.github.io/WebDevBootcamp-Mulearn/Space-Exploration/index.html)
 #### [Birthday-Gift](https://arjuncvinod.github.io/WebDevBootcamp-Mulearn/Birthday-Gift/index.html)
 #### [CSS-Flex](https://arjuncvinod.github.io/WebDevBootcamp-Mulearn/CSS-Flex/index.html)
-#### [Passenger-Count](https://arjuncvinod.github.io/WebDevBootcamp-Mulearn/Passenger-Count/index.html)
+#### [Calculator](https://arjuncvinod.github.io/WebDevBootcamp-Mulearn/Calculator/index.html)
 
