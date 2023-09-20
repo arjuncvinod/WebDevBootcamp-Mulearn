@@ -11,4 +11,5 @@
 #### [Buildjack-Game](https://arjuncvinod.github.io/WebDevBootcamp-Mulearn/Buildjack-Game/index.html)
 #### [Create-Stat](https://arjuncvinod.github.io/WebDevBootcamp-Mulearn/Create-Stat/index.html)
 #### [Sorting-Fruits](https://arjuncvinod.github.io/WebDevBootcamp-Mulearn/Sorting-Fruits/index.html)
+#### [Style-Stat](https://arjuncvinod.github.io/WebDevBootcamp-Mulearn/Style-Stat/index.html)
 
