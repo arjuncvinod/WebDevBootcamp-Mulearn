@@ -1,4 +1,5 @@
 # Web Development Bootcamp by Gtech Mulearn
+![ViewCount](https://views.whatilearened.today/views/github/arjuncvinod/WebDevBootcamp-Mulearn.svg?cache=remove)
 ### This Repository contains the Tasks and Projects done during the Web Development Bootcamp
 ### Task Live Preview : 
 #### [Google-Clone](https://arjuncvinod.github.io/WebDevBootcamp-Mulearn/Google-Clone/index.html)
