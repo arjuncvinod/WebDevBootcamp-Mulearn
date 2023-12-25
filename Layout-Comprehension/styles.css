@@ -1,0 +1,101 @@
+body {
+  background-color: #fff;
+  color: #333;
+  margin: 0;
+  font: 1.2em / 1.2 Arial, Helvetica, sans-serif;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+.logo {
+  font-size: 200%;
+  padding: 50px 20px;
+  margin: 0 auto;
+  max-width: 980px;
+}
+
+.grid {
+  margin: 0 auto;
+  padding: 0 20px;
+  max-width: 980px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+nav {
+  background-color: #000;
+  padding: .5em;
+  width: 100%; 
+  position: sticky;
+  top: 0; 
+  z-index: 100; 
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex; 
+}
+
+nav li {
+  flex-grow: 1; 
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  padding: .5em 1em;
+}
+
+.photos {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); 
+  gap: 1px; 
+}
+
+.photos img {
+  width: 100%; 
+  height: auto; 
+}
+
+.feature {
+  width: 200px;
+  float: left; 
+  margin-right: 20px; 
+}
+
+
+article {
+  flex: 1; 
+  margin-right: 20px; 
+}
+
+article::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+aside {
+  flex: 0 0 300px; 
+}
+
+
+@media (max-width: 768px) {
+  article {
+    flex: 1 0 100%; 
+    margin-right: 0; 
+  }
+
+  aside {
+    flex: 1 0 100%; 
+  }
+}
