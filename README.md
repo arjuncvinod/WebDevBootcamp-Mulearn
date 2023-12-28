@@ -19,4 +19,6 @@
 #### [Git-API](https://github.com/arjuncvinod/GitHub-Profile-Viewer)
 #### [Air-Bnb](https://airbnb-acv.netlify.app/)
 #### [Meme-Gen](https://memegenerator-acv.vercel.app/)
+#### [Planatery-Data](https://arjuncvinod.me/WebDevBootcamp-Mulearn/Planet-Data/)
+#### [Layout-Comprehension](https://arjuncvinod.me/WebDevBootcamp-Mulearn/Layout-Comprehension/)
 
