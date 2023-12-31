@@ -1,0 +1,32 @@
+ html {
+        font-family: sans-serif;
+      }
+
+      body {
+        margin: 0 auto;
+        max-width: 1024px;
+      }
+
+      main {
+        padding: 20px;
+      }
+
+      header, footer {
+        background: rgb(63, 250, 88);
+        padding: 20px;
+        border: 1px solid black;
+      }
+
+      header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+      }
+
+      form {
+        font-size: 0.8rem;
+      }
+
+      .personal-greeting {
+        font-weight: bold;
+      }
