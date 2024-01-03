@@ -24,4 +24,5 @@
 #### [Marking-Up-A-Letter](https://arjuncvinod.me/WebDevBootcamp-Mulearn/Making-Up-A-Letter/)
 #### [Biography-Page](https://arjuncvinod.me/WebDevBootcamp-Mulearn/Biography-Page/)
 #### [Silly-Story-Generator](https://arjuncvinod.me/WebDevBootcamp-Mulearn/Silly-Story-Generator/)
+#### [Sequencing-Animation](https://arjuncvinod.me/WebDevBootcamp-Mulearn/Sequencing-Animation/)
 
