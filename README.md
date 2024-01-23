@@ -27,5 +27,6 @@
 #### [Sequencing-Animation](https://arjuncvinod.me/WebDevBootcamp-Mulearn/Sequencing-Animation/)
 #### [Client-Side-Web-API](https://arjuncvinod.me/WebDevBootcamp-Mulearn/Client-Side-Web-API/)
 #### [Notes-App](https://notesapp-acv.netlify.app/)
+#### [Mozilla-Splash-Page](https://arjuncvinod.me/WebDevBootcamp-Mulearn/Mozilla-Splash-Page)
 
 
