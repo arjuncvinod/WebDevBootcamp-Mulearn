@@ -21,4 +21,11 @@
 #### [Meme-Gen](https://memegenerator-acv.vercel.app/)
 #### [Planatery-Data](https://arjuncvinod.me/WebDevBootcamp-Mulearn/Planet-Data/)
 #### [Layout-Comprehension](https://arjuncvinod.me/WebDevBootcamp-Mulearn/Layout-Comprehension/)
+#### [Marking-Up-A-Letter](https://arjuncvinod.me/WebDevBootcamp-Mulearn/Making-Up-A-Letter/)
+#### [Biography-Page](https://arjuncvinod.me/WebDevBootcamp-Mulearn/Biography-Page/)
+#### [Silly-Story-Generator](https://arjuncvinod.me/WebDevBootcamp-Mulearn/Silly-Story-Generator/)
+#### [Sequencing-Animation](https://arjuncvinod.me/WebDevBootcamp-Mulearn/Sequencing-Animation/)
+#### [Client-Side-Web-API](https://arjuncvinod.me/WebDevBootcamp-Mulearn/Client-Side-Web-API/)
+#### [Notes-App](https://notesapp-acv.netlify.app/)
+
 
