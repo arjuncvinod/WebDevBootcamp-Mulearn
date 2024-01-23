@@ -2,7 +2,6 @@ html {
     font-family: 'Open Sans', sans-serif;
     background: url(pattern.png);
   }
-
   body {
     width: 100%;
     max-width: 1200px;
@@ -10,7 +9,6 @@ html {
     background-color: white;
     position: relative;
   }
-
   header {
     height: 150px;
   }
@@ -21,7 +19,6 @@ html {
     right: 32.5px;
     top: 32.5px;
   }
-
   h1 {
     font-size: 50px;
     line-height: 140px;
@@ -30,19 +27,15 @@ html {
   main {
     background: #ccc;
   }
-
   article {
     padding: 20px;
   }
-
   h2 {
     margin-top: 0;
   }
-
   p {
     line-height: 2;
   }
-
   iframe {
     float: left;
     margin: 0 20px 20px 0;
