@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(0, 0, 0);
+}
+.card-container{
+    background:linear-gradient(45deg,red,yellow,blue,rgb(0, 255, 0),rgb(149, 42, 248),orange,red,yellow,blue,rgb(0, 255, 0),rgb(149, 42, 248));
+    background-size: 400%;
+    width: 254px;
+    height: 374px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 12px;
+    animation: color 1.5s linear infinite;
+    filter: drop-shadow(0 0 2rem transparent);
+}
+
+@keyframes color {
+    0%{
+        background-position: left;
+
+    }
+    100%{
+        background-position:right
+    }
+    
+}
+.card{
+    height: 370px;
+    width: 250px;
+    background-color: black;
+    /* box-shadow: 2px 4px 16px rgba(0, 0, 0, 0.17); */
+    border-radius: 10px;
+    /* display: none; */
+}
+.img-container img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.img-container{
+    display: flex;
+    justify-content: center;
+    margin: 25px 0 20px 0;
+}
+.details{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    align-items: center;
+}
+.details h1{
+    color: blueviolet;
+    font-size: 1.8rem;
+    
+}
+.details p:nth-child(2){
+    color: gray;
+    font-size: 1.15rem;
+    margin-bottom: 5px;
+    margin-top: -2px;
+}
+.details p:nth-child(n+3){
+    color: gray;
+    font-size: .9rem;
+}
+
+.details a{
+    text-decoration: none;
+    color: blueviolet;
+}
