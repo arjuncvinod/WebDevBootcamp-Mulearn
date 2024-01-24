@@ -1,0 +1,88 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  body{
+    background-color: #fafafa;
+    font-family: Arial, Helvetica, sans-serif;
+    display: grid;
+    place-items: center;
+    height: 100vh;
+  }
+  h1{
+    font-size: 26px;
+    color: rgb(83, 68, 251);
+    text-align: center;
+  }
+  .vc-input{
+    /* height: 300px;  */
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 2px 4px 16px rgba(0, 0, 0, 0.16);
+    background-color: white;
+    gap: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 0 auto;
+    
+  }
+  .vc-input input{
+    border: 2px solid rgba(128, 128, 128, 0.505);
+    outline: none;
+    height: 35px;
+    transition: .5s;
+    color: rgba(128, 128, 128, 0.8);
+    width: 100%;
+    border-radius: 5px;
+    padding: 2px;
+  }
+  .vc-input input:focus{
+    border-color:rgb(91, 77, 245);
+    color: rgb(91, 77, 245);
+  }
+  .vc-input input:focus::placeholder{
+    color: rgb(91, 77, 245);
+  }
+  input::-webkit-outer-spin-button,
+  input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  .vc-input button{
+    background-color: rgb(91, 77, 245);
+    color: white;
+    border-radius: 5px;
+    /* height: 20px; */
+    border: none;
+    padding: 8px;
+    cursor: pointer;
+    transition: .15s;
+  }
+  .vc-input button:hover{
+    background-color:  rgb(72, 56, 246);
+  }
+  .vc-input p{
+    position: relative;
+  }
+  label{
+    position: absolute;
+    top :-7px;
+    left: 10px;
+    background-color: white;
+    padding: 0 2px;
+    font-size: .8rem;
+    font-weight: bold;
+    color: gray ;
+    transition: .5s;
+  }
+  body{
+    display: flex;
+    justify-content: center;
+    padding: 3%;
+  }
+  
+  .vc-input input:focus ~ label{
+    color: rgb(91, 77, 245);
+  }
