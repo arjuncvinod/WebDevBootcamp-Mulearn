@@ -21,7 +21,7 @@ const Feed = () => {
         <Sidebar selectedCategory={selectedCategory} setSelectedCategory={setSelectedCategory} />
         
         <Typography className="copyright" variant="body2" sx={{ mt: 1.5, color: "#fff", }}>
-          Copyright © 2024 <a href="https://arjuncvinod.me">Arjun C Vinod</a>
+          Copyright © 2024 <a href="https://arjuncvinod.me" sx={{color:"white"}}> Arjun C Vinod</a>
         </Typography>
       </Box>
 
