@@ -36,5 +36,8 @@
 #### [Bouncing-Balls](https://arjuncvinod.me/WebDevBootcamp-Mulearn/Bouncing-Balls)
 #### [Tic-Tac-Toe](https://tictactoe-acv.vercel.app/)
 #### [Youtube-Clone](https://youtube-acv.vercel.app/)
+#### [Chat-Room](https://chatroom-acv.vercel.app/)
+#### [Movie-App](https://movieapp-acv.vercel.app/)
+#### [Budget-App](https://budgetapp-acv.netlify.app/)
 
 
